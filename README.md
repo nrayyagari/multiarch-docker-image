@@ -151,7 +151,7 @@ On x86 based system
 - Not feasible for applications with architecture-specific dependencies
 - Or when binary compatibility with other architectures is not available
 
-## 7. Common Issues and Troubleshooting
+## 8. Common Issues and Troubleshooting
 
 - **Error: "multiple platforms feature is currently not supported"**: Ensure you're using docker-container driver
 - **Error: "push access denied"**: Make sure you're logged in with `docker login`
