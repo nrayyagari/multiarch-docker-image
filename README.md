@@ -1,6 +1,6 @@
 # Multi-Architecture Docker Images
 
-## 1. Introduction: Multi-Architecture Problem
+## 1. Multi-Architecture Problem
 
 Applications today need to run on different processor architectures (x86-64 servers, ARM-based AWS Graviton, Apple M1 etc). Traditional single-architecture Docker images cause compatibility issues and performance problems when run on host machines with different architectures.
 
