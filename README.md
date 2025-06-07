@@ -143,7 +143,7 @@ On x86 based system
 ### The Benefits
 - Seamless cross-platform deployment
 - Single image reference for developers
-- Future-proofing for new architectures
+- Single Docker file for multi-architecture support
 
 ### Limitations
 - Build times and resource usage increase
